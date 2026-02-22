@@ -137,3 +137,16 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+node_modules/
+**/node_modules/
+.env
+**/.env
+dist/
+**/dist/
+ai-service/venv/
+__pycache__/
+*.pyc
+.shopify/
+.DS_Store
+Thumbs.db
+*.log

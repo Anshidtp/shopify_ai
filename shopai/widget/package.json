@@ -1,0 +1,20 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "preact": "^10.28.4"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.3",
+    "vite": "^7.3.1"
+  }
+}
